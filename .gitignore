@@ -1,0 +1,22 @@
+# Backend environment file
+backend/.env
+
+# Backend node modules
+backend/node_modules/
+
+# General node modules (if any)
+node_modules/
+
+# Logs
+*.log
+
+# Dependency directories
+**/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
